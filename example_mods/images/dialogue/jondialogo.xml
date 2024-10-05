@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jondialogo.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF0000" x="0" y="0" width="315" height="577"/>
+	<SubTexture name="BF0001" x="0" y="0" width="315" height="577"/>
+	<SubTexture name="BF Cópia0000" x="315" y="0" width="315" height="577"/>
+	<SubTexture name="BF Cópia0001" x="315" y="0" width="315" height="577"/>
+	<SubTexture name="BF LOOP0000" x="630" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP0001" x="630" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP0002" x="953" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP0003" x="953" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP0004" x="1276" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP0005" x="1276" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP Cópia0000" x="1599" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP Cópia0001" x="1599" y="0" width="323" height="583"/>
+	<SubTexture name="BF LOOP Cópia0002" x="0" y="583" width="323" height="583"/>
+	<SubTexture name="BF LOOP Cópia0003" x="0" y="583" width="323" height="583"/>
+	<SubTexture name="BF LOOP Cópia0004" x="323" y="583" width="323" height="583"/>
+	<SubTexture name="BF LOOP Cópia0005" x="323" y="583" width="323" height="583"/>
+</TextureAtlas>

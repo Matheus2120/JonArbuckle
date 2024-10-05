@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				52,
+				-176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				369,
+				-262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				190,
+				-259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				285,
+				-168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jonak",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "jon-ak-47",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		170,
+		255
+	],
+	"camera_position": [
+		-200,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

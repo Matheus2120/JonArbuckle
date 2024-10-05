@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ok thats enough im super mad im going to get my ak 47 *gets the ak 47*"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jonakdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now i'm gonna shoot you your fat orange cat"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "nooooooooo pls rap battle or lasagna in your face"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jonakdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "last chance"
+		}
+	]
+}

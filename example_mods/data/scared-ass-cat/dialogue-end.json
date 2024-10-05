@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jonakdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok you missed your chance now you're going to get shot in your fat belly"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "noooooooooooooooooooooooooooooooooooooooooo\\nplssssssssssssssssssssssssssssssssssssssssssssss"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag i revived to garfield not die"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jonakdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you two"
+		},
+		{
+			"sound": "",
+			"speed": 0.16,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no."
+		},
+		{
+			"sound": "",
+			"speed": 0.15,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "coolswag no."
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*kills jon with the ak 47*"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "not so coolswag im going to dance now goodbye"
+		}
+	]
+}

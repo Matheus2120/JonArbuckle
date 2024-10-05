@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "odduhdiag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bark bark bark bark bark bark grrrrrrrrrrrrrrr\\nrrrrrrrrrrrrrrrrrrrrr >:("
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "normaldialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*kicks odie away*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh my god it's garfield but small and with charcoal skin"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "normaldialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up i'm the most beautiful cat in the world"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no, a run over cat is prettier than you"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "normaldialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "grrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr\\nlets rap now!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay."
+		}
+	]
+}

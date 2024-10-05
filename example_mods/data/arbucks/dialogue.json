@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello yo soy jon arbuckle"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you still talking even though your dialogue is over?"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bugs"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok gnome"
+		}
+	]
+}

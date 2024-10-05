@@ -1,0 +1,50 @@
+{
+	"storyName": "garfield and his rapper friends",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "garfieldeseusamigosrappers",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"New Welciome",
+			"garfield",
+			[
+				255,
+				170,
+				0
+			]
+		],
+		[
+			"Odduh",
+			"odie",
+			[
+				250,
+				254,
+				121
+			]
+		],
+		[
+			"Beautiful Cat",
+			"nermal",
+			[
+				153,
+				153,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Garfield",
+	"hiddenUntilUnlocked": false
+}

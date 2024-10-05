@@ -1,0 +1,59 @@
+{
+	"storyName": "Jon is Life, Jon is Everything.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "jonweekylelow",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Arbucks",
+			"jon",
+			[
+				0,
+				170,
+				255
+			]
+		],
+		[
+			"Generic Angry Song",
+			"jon-angry",
+			[
+				0,
+				170,
+				255
+			]
+		],
+		[
+			"JonJonJon",
+			"jon-angry",
+			[
+				0,
+				170,
+				255
+			]
+		],
+		[
+			"Scared Ass Cat",
+			"jon-ak-47",
+			[
+				0,
+				170,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Jon"
+}

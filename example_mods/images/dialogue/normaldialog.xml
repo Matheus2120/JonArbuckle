@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="normaldialog.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF SHOCK0000" x="0" y="0" width="372" height="329"/>
+	<SubTexture name="BF SHOCK0001" x="0" y="0" width="372" height="329"/>
+	<SubTexture name="BF SHOCK LOOP0000" x="372" y="0" width="372" height="356"/>
+	<SubTexture name="BF SHOCK LOOP0001" x="372" y="0" width="372" height="356"/>
+	<SubTexture name="BF SHOCK LOOP0002" x="0" y="356" width="372" height="356"/>
+	<SubTexture name="BF SHOCK LOOP0003" x="0" y="356" width="372" height="356"/>
+	<SubTexture name="BF SHOCK LOOP0004" x="372" y="356" width="372" height="356"/>
+	<SubTexture name="BF SHOCK LOOP0005" x="372" y="356" width="372" height="356"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I broke into Garfield's garage hahahaha"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh an intruder"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap because you are cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay okay okay okay okay okay okay okay okay okay okay okay okay okay"
+		}
+	]
+}

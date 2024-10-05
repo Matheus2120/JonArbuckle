@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "BF LOOP",
+			"idle_name": "BF LOOP0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "BF LOOP Cópia",
+			"idle_name": "BF LOOP Cópia0"
+		}
+	],
+	"image": "jondialogo"
+}

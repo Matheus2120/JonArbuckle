@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "normaldialog",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-45
+			],
+			"loop_offsets": [
+				0,
+				-37
+			],
+			"anim": "talk",
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jonakdialog.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Cópia Cópia0000" x="0" y="0" width="392" height="577"/>
+	<SubTexture name="BF Cópia Cópia0001" x="0" y="0" width="392" height="577"/>
+	<SubTexture name="BF LOOP Cópia Cópia0000" x="392" y="0" width="400" height="583"/>
+	<SubTexture name="BF LOOP Cópia Cópia0001" x="392" y="0" width="400" height="583"/>
+	<SubTexture name="BF LOOP Cópia Cópia0002" x="792" y="0" width="400" height="583"/>
+	<SubTexture name="BF LOOP Cópia Cópia0003" x="792" y="0" width="400" height="583"/>
+	<SubTexture name="BF LOOP Cópia Cópia0004" x="1192" y="0" width="400" height="583"/>
+	<SubTexture name="BF LOOP Cópia Cópia0005" x="1192" y="0" width="400" height="583"/>
+</TextureAtlas>

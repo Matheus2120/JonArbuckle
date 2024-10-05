@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "heheheheheheheheeehehehehhehehehehehehehhehehehenehehheehehehheheheehehheheheheheheheheeheheh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "fuck you"
+		},
+		{
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "rap battle song two or dead"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Rap Battle (also known as rap battling) is a type of rapping performed between two or more performers that incorporates boasts, insults, wordplay and disses originating in the African-American community. Rap Battle is often performed, or freestyled, spontaneously in live battles known as Rap battles, where participants will compete on the same stage to see who has the better verses."
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up jon"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "jondialogo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ok."
+		}
+	]
+}

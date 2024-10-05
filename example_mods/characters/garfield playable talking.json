@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-168,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-140,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-78,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-42,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-140,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-78,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-168,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garfieldvja",
+	"position": [
+		-130,
+		150
+	],
+	"healthicon": "garfield",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		440,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won, now second song forkfield"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, now I'm going to call Odie and he's going to sing with you"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "odduhdiag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bark bark bark bark bark bark bark bark!"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle yellow dog"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "odduhdiag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "grrr >:( bark yeah."
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "odduhdiag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*bites garfield*"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "garfododialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*flies away*"
+		}
+	]
+}

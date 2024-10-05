@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfododialogo.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF PISSED0000" x="0" y="0" width="309" height="302"/>
+	<SubTexture name="BF PISSED0001" x="0" y="0" width="309" height="302"/>
+	<SubTexture name="BF PISSED Cópia0000" x="309" y="0" width="309" height="302"/>
+	<SubTexture name="BF PISSED Cópia0001" x="309" y="0" width="309" height="302"/>
+	<SubTexture name="BF PISSED LOOP0000" x="618" y="0" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP0001" x="618" y="0" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP0002" x="0" y="325" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP0003" x="0" y="325" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP0004" x="309" y="325" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP0005" x="309" y="325" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP Cópia0000" x="618" y="325" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP Cópia0001" x="618" y="325" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP Cópia0002" x="0" y="650" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP Cópia0003" x="0" y="650" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP Cópia0004" x="309" y="650" width="309" height="325"/>
+	<SubTexture name="BF PISSED LOOP Cópia0005" x="309" y="650" width="309" height="325"/>
+</TextureAtlas>

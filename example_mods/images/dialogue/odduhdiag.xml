@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="odduhdiag.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF CONFUSED0000" x="0" y="0" width="208" height="364"/>
+	<SubTexture name="BF CONFUSED0001" x="0" y="0" width="208" height="364"/>
+	<SubTexture name="BF CONFUSED LOOP0000" x="208" y="0" width="208" height="416"/>
+	<SubTexture name="BF CONFUSED LOOP0001" x="208" y="0" width="208" height="416"/>
+	<SubTexture name="BF CONFUSED LOOP0002" x="416" y="0" width="208" height="416"/>
+	<SubTexture name="BF CONFUSED LOOP0003" x="416" y="0" width="208" height="416"/>
+	<SubTexture name="BF CONFUSED LOOP0004" x="624" y="0" width="208" height="416"/>
+	<SubTexture name="BF CONFUSED LOOP0005" x="624" y="0" width="208" height="416"/>
+</TextureAtlas>
